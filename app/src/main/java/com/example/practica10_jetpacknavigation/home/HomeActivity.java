@@ -35,7 +35,7 @@ import androidx.viewpager2.widget.ViewPager2;
 
 
 import com.example.practica10_jetpacknavigation.databinding.ActivityHomeBinding;
-import com.example.practica10_jetpacknavigation.home.fragments.home_fragment_1.HomeFragment;
+import com.example.practica10_jetpacknavigation.home.fragments.HomeFragment;
 import com.example.practica10_jetpacknavigation.home.viewpager.HomePageAdapter;
 import com.example.practica10_jetpacknavigation.model.User;
 import com.google.android.material.tabs.TabLayout;
